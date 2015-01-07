@@ -1,0 +1,9 @@
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\bin\Debug\MenuForToday.exe.config
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\bin\Debug\MenuForToday.exe
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\bin\Debug\MenuForToday.pdb
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.csprojResolveAssemblyReference.cache
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.MainForm.resources
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.Properties.Resources.resources
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.csproj.GenerateResource.Cache
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.exe
+C:\GitHub\MenuForToday\MenuForToday\MenuForToday\obj\Debug\MenuForToday.pdb
